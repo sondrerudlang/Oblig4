@@ -1,0 +1,7 @@
+møtes en gang iblant og kode individuelt imellom.
+
+Bruke github. Vegard lager repo. Det ble bestemt at Vegards tidligere oppgaver skulle benyttes, slik at det ikke blir noe feil med variabelnavn mellom klassene.
+
+Gjøre de oppgavene man blir tildelt. Helst ferdig innen fredag 20. Oppaven skal være godt kommentert og bestå på første forsøk.
+
+Være ferdig med B, C, D innen onsdag, og så fordele E der. Jobbe med E rfam til fredag, og ferdigstille den da. Bruker Vegards innleveringer som grunnlag. Skriver egne testklasser.
